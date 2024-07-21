@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nagaraju100
-- 👀 I’m interested in data engineering, cloud technologies, and machine learning. I enjoy working with big data tools like PySpark and AWS EMR.
+- 👀 I’m interested in data engineering, cloud technologies, and machine learning. I enjoy working with big data tools like SQl, Python, Pyspark, Databricks, AWS, GCP , Azure .
 - 🌱 I’m currently learning advanced data processing techniques, optimization strategies for large-scale data transfers, and the latest updates in Databricks and generative AI.
 - 💞️ I’m looking to collaborate on innovative data engineering projects, creating impactful technology videos, and contributing to open-source projects.
 - 📫 How to reach me: Connect with me on  [LinkedIn](https://www.linkedin.com/in/nagaraju-gajula-0a408427/) or [email me](nagarajugajula100@gmail.com).
